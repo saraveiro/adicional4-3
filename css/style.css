@@ -1,0 +1,68 @@
+@charset "utf-8";
+@import "dte_layout.css";
+
+/*
+   DTE estilo tipográfico
+   Author: Sara Martínez Veiro	
+   Date: 25/01/2021
+   
+   DTE Layout Styles
+   Filename: dte_layout.css
+
+*/
+
+/* Heading Styles */
+
+ 
+ h1{
+    background-color: rgb(255,185,255);
+    color: rgb(101,101,101);
+    font-size: 2.2em;
+ }
+ h2{
+     font-size: 1.5em;
+ }
+ 
+
+/* h1, h2{
+    font-family: 'quicksand', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ */
+
+
+ 
+ 
+ /* Aside and Blockquote Styles */
+
+ 
+ 
+ /* Navigation Styles */	
+ 
+
+ 
+ 
+ 
+ /* List Styles */
+
+section.syllabus ol{
+    list-style-type: upper-roman;
+}
+ section.syllabus ol ol{
+     list-style-type: upper-alpha;
+ } 
+ 
+ section.syllabus ol ol ol{
+     list-style-type: decimal;
+ }
+ 
+ 
+ 
+ /* Footer Styles */
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
