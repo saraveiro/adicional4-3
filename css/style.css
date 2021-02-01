@@ -1,6 +1,7 @@
 @charset "utf-8";
 @import "dte_layout.css";
-
+/* se mandaba cambiar el nombre al dte_styles.csv y llamarle style.csv no hacer otra
+hoja de estilos*/
 /*
    DTE estilo tipográfico
    Author: Sara Martínez Veiro	
@@ -23,7 +24,9 @@
      font-size: 1.5em;
  }
  
-
+h1, h2 {
+    letter-spacing: 0.025em;
+}
 /* h1, h2{
     font-family: 'quicksand', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
  }
